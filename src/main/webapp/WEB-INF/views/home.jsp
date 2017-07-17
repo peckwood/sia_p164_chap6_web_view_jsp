@@ -13,7 +13,7 @@
 
     <s:url value="/spitter/register" var="registerUrl" />
 
-    <a href="<s:url value="/spittles" />">Spittles</a> | 
+    <a href="<s:url value="/spittles" />">Spittles</a>
     <a href="${registerUrl}">Register</a>
 
   </body>
